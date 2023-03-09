@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c007c055-4aaf-46ad-b02f-d6618f5ca94f" name="Changes" comment="flyttade json.data">
-      <change beforePath="$PROJECT_DIR$/src/JSON/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.json" afterDir="false" />
-    </list>
+    <list default="true" id="c007c055-4aaf-46ad-b02f-d6618f5ca94f" name="Changes" comment="flyttade json.data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton\OneDrive\Skrivbord\Java22\JavaWebServices\Lektion2-JSON\JSONExample\src\JSON" />
+      <recent name="C:\Users\Anton\OneDrive\Skrivbord\Java22\JavaWebServices\Lektion2-JSON\JSONExample\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678350634402</updated>
       <workItem from="1678350635541" duration="12566000" />
-      <workItem from="1678374652901" duration="332000" />
+      <workItem from="1678374652901" duration="710000" />
     </task>
     <task id="LOCAL−00001" summary="fixade idea?">
       <created>1678367150653</created>
@@ -77,7 +81,19 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1678374951191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="flyttade json.data">
+      <created>1678375011596</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1678375011596</updated>
+    </task>
+    <task id="LOCAL−00005" summary="flyttade json.data">
+      <created>1678375028304</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1678375028304</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

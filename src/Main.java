@@ -32,7 +32,7 @@ public class Main {
     static void fetchJsonFromFile() throws IOException, ParseException {
 
         //Hämta data från JSON fil
-        JSONObject fetchData = (JSONObject) new JSONParser().parse(new FileReader("src/data.json"));
+        JSONObject fetchData = (JSONObject) new JSONParser().parse(new FileReader("src/JSON/data.json"));
 
         //Konvertera data till ett JSONObject
         JSONObject person1 = (JSONObject) fetchData.get("p1");
