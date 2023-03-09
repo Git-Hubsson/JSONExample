@@ -74,6 +74,6 @@ public class Main {
 
         JSONObject dataObject = (JSONObject) new JSONParser().parse(String.valueOf(strData));
 
-        System.out.println(dataObject);
+        System.out.println("Hastighet i Km: " + dataObject.get("velocity") + " Höjd över havet: " + dataObject.get("altitude"));
     }
 }
